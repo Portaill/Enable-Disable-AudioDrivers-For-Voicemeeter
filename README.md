@@ -1,4 +1,4 @@
-# Enable-Disable-AudioDrivers-For-Voicemeeter
+# Enable-Disable-AudioDrivers-For-Voicemeeter-Potato
 
   You Will need Nircmd https://www.nirsoft.net/utils/nircmd.zip (Need to put in your Windows Files)
   And SoundVolumeView.exe https://www.nirsoft.net/utils/soundvolumeview-x64.zip (Need to put in your Windows Files)
